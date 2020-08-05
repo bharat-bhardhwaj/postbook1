@@ -1,0 +1,61 @@
+.Profile {
+    
+    max-width: 950px;
+    margin: 0px auto;
+
+    
+}
+
+.Maindiv{
+    display: flex;
+    padding: 20px;
+    margin: 18px 0px;
+    border-bottom: 1px solid #DC401E;
+}
+
+.Image {
+    
+}
+.Image img {
+    width: 160px;
+    height: 160px;
+    border-radius: 80px;
+}
+
+.Contentdiv{
+    padding-left: 90px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+
+.ContentSecond {
+    display: flex;
+    
+
+}
+
+.ContentSecond h5 {
+    margin-right: 20px;
+    text-transform: uppercase;
+    color: #DC401E;
+    font-weight: 100;
+
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+
+}
+
+.item {
+    width: 285px;
+    height: 300px;
+    margin-left: 30px;
+    margin-bottom:30px;
+
+
+}

@@ -1,0 +1,50 @@
+a{
+  color:#DC401E !important;
+  text-transform: uppercase !important;
+  font-weight: 300;
+  letter-spacing: 3px;
+}
+
+
+
+.auth-card {
+  padding:20px;
+ 
+  text-align: center;
+  max-width: 400px;
+  margin:10px auto;
+  color:#DC401E !important;
+  
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+
+
+.mycard {
+  margin-top: 10px;
+}
+
+button{
+  margin-top: 20px !important;
+  color:#DC401E !important;
+  background-color: white !important;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #000 !important;
+  box-shadow: 0 1px 0 0 #DC401E !important;
+
+}
+.input-field input[type=password]:focus {
+  border-bottom: 1px solid #000 !important;
+  box-shadow: 0 1px 0 0 #DC401E !important;
+
+}
+
+
+#toast-container {
+  top:30px !important;
+  right:20px !important;
+  left:auto !important;
+}
